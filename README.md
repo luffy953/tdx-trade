@@ -1,4 +1,4 @@
-# ⚡ 通达信实盘高速量化交易网关 (TDX Native Trade Gateway)
+# ⚡ 通达信/同花顺实盘高速量化交易网关 (TDX Native Trade Gateway)
 
 <div align="center">
 
